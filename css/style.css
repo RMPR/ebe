@@ -444,6 +444,7 @@ a:focus {
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
+    opacity: 200%;
 }
 
 #contact,
